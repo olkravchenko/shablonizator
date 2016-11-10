@@ -1,0 +1,23 @@
+{
+  "title": "twig test",
+  "includes": {
+  "header": {
+    "logo": "logo",
+    "nav": [
+      {"name": "Home", "link": "#"},
+      {"name": "Calculator", "link": "calculator.html"},
+      {"name": "About", "link": "#"},
+      {"name": "Contacts", "link": "#"}
+    ]
+  },
+    "shmooter":{
+      "shlogo": "logo",
+      "shnav": [
+        {"name": "Home", "link": "#"},
+        {"name": "Calculator", "link": "calculator.html"},
+        {"name": "About", "link": "#"},
+        {"name": "Contacts", "link": "#"}
+      ]
+    }
+}
+}
